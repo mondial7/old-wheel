@@ -1,0 +1,15 @@
+{
+  "name": "old-wheel-js",
+  "homepage": "https://github.com/mondial7/old-wheel",
+  "authors": [
+    "Marco <mmondini@mondspace.com>"
+  ],
+  "description": "mix of some javascript utilities, e.g. ajax",
+  "main": "oldwheel.js",
+  "keywords": [
+    "js",
+    "ajax",
+    "utilities"
+  ],
+  "license": "MIT"
+}
